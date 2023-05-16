@@ -1,0 +1,6 @@
+.listItem {
+    background-image: radial-gradient(white, gray) ;
+}
+.listItem:hover {
+    background-image: radial-gradient(white, transparent) ;
+}
